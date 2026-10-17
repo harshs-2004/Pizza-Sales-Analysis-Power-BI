@@ -110,6 +110,13 @@ Actual findings should be documented based on the results of your SQL queries an
 - Sales Trend Analysis
 - Business Reporting
 
+📸 Screenshots/Demos
+
+### Pizza Sales Analysis Dashboard
+Show what the dashboard looks like - https://github.com/harshs-2004/Pizza-Sales-Analysis-Power-BI/blob/main/Home%20Dashboard.png
+
+*Interactive Power BI dashboard showcasing pizza sales, revenue, order trends, and category-wise performance.*
+
 ✅ Conclusion
 
 This project demonstrates how SQL and Power BI can work together to analyze sales data and create an interactive business intelligence dashboard. By querying the data in SQL and visualizing the results in Power BI, I developed practical skills in data analysis, KPI reporting, visualization, and business insight generation.
